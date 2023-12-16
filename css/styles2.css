@@ -1,0 +1,56 @@
+
+body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Open Sans', sans-serif;
+    background-color: rgb(178, 169, 169);
+}
+
+header {
+    background-color: rgb(63, 47, 47);
+    text-align: center;
+    padding: 50px;
+}
+header a {
+    color: white;
+}
+header h1 {
+    font-size: 36px;
+    font-weight: bold;
+    margin-bottom: 20px;
+    color: white; 
+}
+
+main {
+    text-align: center;
+    padding: 20px;
+}
+
+h1 {
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+    color: #f7f4f4;
+    text-align: center;
+}
+
+img {
+    max-width: 30%;
+    height: auto;
+    display: block;
+    margin: 20px auto;
+    border: 2px solid #333; /* Added color for the border */
+}
+
+footer {
+    text-align: center;
+    font-style: italic;
+    font-weight: 600;
+    padding: 20px;
+    background-color: rgb(178, 169, 169);
+}
+
+h2 {
+    font-size: 24px;
+    margin-bottom: 10px;
+}
